@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolhaPagamentos", "FolhaPagamentos\FolhaPagamentos.csproj", "{071C63BA-17DC-47CC-B456-A49FD16B1574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071C63BA-17DC-47CC-B456-A49FD16B1574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071C63BA-17DC-47CC-B456-A49FD16B1574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071C63BA-17DC-47CC-B456-A49FD16B1574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071C63BA-17DC-47CC-B456-A49FD16B1574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF5495D-92BE-4040-9C58-C89929F87F3B}
+	EndGlobalSection
+EndGlobal

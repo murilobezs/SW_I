@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\bin\Debug\net6.0\FolhaPagamentos.exe
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\bin\Debug\net6.0\FolhaPagamentos.deps.json
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\bin\Debug\net6.0\FolhaPagamentos.runtimeconfig.json
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\bin\Debug\net6.0\FolhaPagamentos.dll
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\bin\Debug\net6.0\FolhaPagamentos.pdb
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.dll
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\refint\FolhaPagamentos.dll
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.pdb
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\FolhaPagamentos.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\FolhaDePagamentos\FolhaPagamentos\FolhaPagamentos\obj\Debug\net6.0\ref\FolhaPagamentos.dll

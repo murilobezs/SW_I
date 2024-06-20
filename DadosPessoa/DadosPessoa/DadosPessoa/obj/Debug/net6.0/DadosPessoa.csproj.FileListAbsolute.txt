@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\bin\Debug\net6.0\DadosPessoa.exe
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\bin\Debug\net6.0\DadosPessoa.deps.json
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\bin\Debug\net6.0\DadosPessoa.runtimeconfig.json
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\bin\Debug\net6.0\DadosPessoa.dll
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\bin\Debug\net6.0\DadosPessoa.pdb
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.dll
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\refint\DadosPessoa.dll
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.pdb
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\DadosPessoa.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exemplo\Exercicios\DadosPessoa\DadosPessoa\DadosPessoa\obj\Debug\net6.0\ref\DadosPessoa.dll

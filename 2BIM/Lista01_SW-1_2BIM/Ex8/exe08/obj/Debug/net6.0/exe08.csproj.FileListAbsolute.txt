@@ -1,0 +1,14 @@
+C:\Users\LETICIA\Desktop\exe08\exe08\bin\Debug\net6.0\exe08.exe
+C:\Users\LETICIA\Desktop\exe08\exe08\bin\Debug\net6.0\exe08.deps.json
+C:\Users\LETICIA\Desktop\exe08\exe08\bin\Debug\net6.0\exe08.runtimeconfig.json
+C:\Users\LETICIA\Desktop\exe08\exe08\bin\Debug\net6.0\exe08.dll
+C:\Users\LETICIA\Desktop\exe08\exe08\bin\Debug\net6.0\exe08.pdb
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfoInputs.cache
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfo.cs
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.csproj.CoreCompileInputs.cache
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.dll
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\refint\exe08.dll
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.pdb
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\exe08.genruntimeconfig.cache
+C:\Users\LETICIA\Desktop\exe08\exe08\obj\Debug\net6.0\ref\exe08.dll

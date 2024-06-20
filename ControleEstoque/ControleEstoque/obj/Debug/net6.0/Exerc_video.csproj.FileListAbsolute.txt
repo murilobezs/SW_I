@@ -1,0 +1,14 @@
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\bin\Debug\net6.0\Exerc_video.exe
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\bin\Debug\net6.0\Exerc_video.deps.json
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\bin\Debug\net6.0\Exerc_video.runtimeconfig.json
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\bin\Debug\net6.0\Exerc_video.dll
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\bin\Debug\net6.0\Exerc_video.pdb
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.AssemblyInfoInputs.cache
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.AssemblyInfo.cs
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.csproj.CoreCompileInputs.cache
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.dll
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\refint\Exerc_video.dll
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.pdb
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\Exerc_video.genruntimeconfig.cache
+C:\Users\LETICIA\Desktop\Exerc_video\Exerc_video\obj\Debug\net6.0\ref\Exerc_video.dll
